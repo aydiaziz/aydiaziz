@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋 I'm Aziz Aydi</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full Stack Developer | Django · Angular · Go</b>
-</p>
+<img src="./banner.svg" alt="Aziz Aydi banner" width="100%" />
 
-<p align="center">
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Django+%7C+Angular+%7C+Go;Building+clean%2C+scalable+web+apps;Open+to+collaboration+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=61DAFB&vCenter=true&size=22&pause=1500" alt="Typing SVG" />
+
+<p>
   <a href="https://www.linkedin.com/in/aziz-aydi-a7923721b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -13,39 +15,50 @@
   </a>
 </p>
 
----
+</div>
 
-### 🚀 About Me
+<br/>
 
-I'm a **Full Stack Developer** building end-to-end web applications — from robust backends to polished, reactive frontends. I'm passionate about clean architecture, performance, and sharing knowledge with the dev community.
+## 🧑‍💻 About Me
 
-- 🐍 **Backend:** Django, REST APIs
-- 🐹 **Backend:** Go (Golang)
-- 🅰️ **Frontend:** Angular 10+, RxJS, Signals
+I'm a **Full Stack Developer** building end-to-end web applications — from robust backends to polished, reactive frontends. Passionate about clean architecture, performance, and sharing knowledge with the dev community.
+
+<br/>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🔧 Backend
+- 🐍 **Django** — REST APIs, ORM, auth
+- 🐹 **Go** — services, performance-critical APIs
+- 🐘 PostgreSQL
+- 🐳 Docker
+
+</td>
+<td valign="top" width="50%">
+
+### 🎨 Frontend
+- 🅰️ **Angular** 10+ — RxJS, Signals
 - 🧩 Micro Frontend architecture
 - ⚡ Angular Universal (SSR)
-- 🔥 Firebase
-- 🏗️ Clean Architecture & Domain-Driven Design (DDD)
-- 🌐 Internationalization (I18N)
-- 📐 ELF (state management)
+- 🏗️ Clean Architecture & DDD
 
-### 🛠️ Tech Stack
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=django,go,angular,ts,js,postgres,docker,git,html,py&theme=dark" />
 </p>
 
-### 📌 Featured Projects
+<br/>
+
+## 📌 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -56,21 +69,37 @@ I'm a **Full Stack Developer** building end-to-end web applications — from rob
 | [mvA](https://github.com/aydiaziz/mvA) | Web project | HTML |
 | [sports](https://github.com/aydiaziz/sports) | Sports-related application | Python |
 
-> 💡 *Tip: add a one-line description to each repo on GitHub so this table (and your pinned cards) stay accurate automatically.*
+<br/>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aydiaziz&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aydiaziz&theme=tokyonight&hide_border=true" height="170" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aydiaziz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aydiaziz&theme=tokyonight&hide_border=true&background=0d1117" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aydiaziz&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="95%" />
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aydiaziz/aydiaziz/output/github-contribution-grid-snake.svg" width="95%" />
+</div>
+
+> ⚙️ Cette animation nécessite d'activer une GitHub Action (fichier `snake.yml` fourni à part — voir instructions ci-dessous).
+
+<br/>
+
+<div align="center">
 
 ### 📫 Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/aziz-aydi-a7923721b/">LinkedIn</a> •
-  <a href="https://github.com/aydiaziz">GitHub</a>
-</p>
+<a href="https://www.linkedin.com/in/aziz-aydi-a7923721b/">LinkedIn</a> • <a href="https://github.com/aydiaziz">GitHub</a>
 
----
-<p align="center"><i>⭐️ Feel free to explore my repositories and reach out for collaboration!</i></p>
+<sub>⭐️ Feel free to explore my repositories and reach out for collaboration!</sub>
+
+</div>
