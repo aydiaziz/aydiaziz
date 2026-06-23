@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Django+%7C+Angular+%7C+Go;Building+clean%2C+scalable+web+apps;Open+to+collaboration+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=61DAFB&vCenter=true&size=22&pause=1500" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Django+%7C+Angular+%7C+Go;DevOps+%7C+Docker+%7C+CI%2FCD+%7C+Cloud;Building+clean%2C+scalable+%26+deployable+apps&font=Fira+Code&center=true&width=600&height=45&color=61DAFB&vCenter=true&size=22&pause=1500" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/aziz-aydi-a7923721b/">
@@ -27,22 +27,30 @@ I'm a **Full Stack Developer** building end-to-end web applications — from rob
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 ### 🔧 Backend
 - 🐍 **Django** — REST APIs, ORM, auth
 - 🐹 **Go** — services, performance-critical APIs
 - 🐘 PostgreSQL
-- 🐳 Docker
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 ### 🎨 Frontend
 - 🅰️ **Angular** 10+ — RxJS, Signals
 - 🧩 Micro Frontend architecture
 - ⚡ Angular Universal (SSR)
-- 🏗️ Clean Architecture & DDD
+
+</td>
+<td valign="top" width="33%">
+
+### ⚙️ DevOps
+- 🐳 Docker & Docker Compose
+- ☸️ Kubernetes (K8s)
+- 🔁 CI/CD pipelines
+- ☁️ Cloud deployment
+- 🌍 Terraform (IaC)
 
 </td>
 </tr>
@@ -53,7 +61,9 @@ I'm a **Full Stack Developer** building end-to-end web applications — from rob
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=django,go,angular,ts,js,postgres,docker,git,html,py&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=django,go,angular,ts,js,postgres&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,aws,terraform&theme=dark" />
 </p>
 
 <br/>
