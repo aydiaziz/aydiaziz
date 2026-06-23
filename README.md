@@ -100,7 +100,6 @@ I'm a **Full Stack Developer** building end-to-end web applications — from rob
   <img src="https://raw.githubusercontent.com/aydiaziz/aydiaziz/output/github-contribution-grid-snake.svg" width="95%" />
 </div>
 
-> ⚙️ Cette animation nécessite d'activer une GitHub Action (fichier `snake.yml` fourni à part — voir instructions ci-dessous).
 
 <br/>
 
